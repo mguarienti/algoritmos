@@ -1,0 +1,70 @@
+-----------------------
+--> Teste 100x:
+
+Posicao 0 (22%) - [20]
+Posicao 1 (8%) - [11]
+Posicao 2 (15%) - [14]
+Posicao 3 (18%) - [24]
+Posicao 4 (2%) - [2]
+Posicao 5 (8%) - [7]
+Posicao 6 (5%) - [2]
+Posicao 7 (2%) - [0]
+Posicao 8 (13%) - [14]
+Posicao 9 (7%) - [6]
+
+------------------------
+--> Teste 1.000x:
+
+Posicao 0 (22%) - [218]
+Posicao 1 (8%) - [83]
+Posicao 2 (15%) - [151]
+Posicao 3 (18%) - [172]
+Posicao 4 (2%) - [24]
+Posicao 5 (8%) - [77]
+Posicao 6 (5%) - [50]
+Posicao 7 (2%) - [17]
+Posicao 8 (13%) - [123]
+Posicao 9 (7%) - [85]
+
+------------------------
+--> Teste 10.000x:
+
+Posicao 0 (22%) - [2159]
+Posicao 1 (8%) - [794]
+Posicao 2 (15%) - [1603]
+Posicao 3 (18%) - [1805]
+Posicao 4 (2%) - [191]
+Posicao 5 (8%) - [786]
+Posicao 6 (5%) - [441]
+Posicao 7 (2%) - [222]
+Posicao 8 (13%) - [1324]
+Posicao 9 (7%) - [675]
+
+------------------------
+--> Teste 100.000x:
+
+Posicao 0 (22%) - [21991]
+Posicao 1 (8%) - [8051]
+Posicao 2 (15%) - [14988]
+Posicao 3 (18%) - [17991]
+Posicao 4 (2%) - [2029]
+Posicao 5 (8%) - [7999]
+Posicao 6 (5%) - [5079]
+Posicao 7 (2%) - [1979]
+Posicao 8 (13%) - [12851]
+Posicao 9 (7%) - [7042]
+
+------------------------
+--> Teste 1.000.000x:
+
+Posicao 0 (22%) - [221767]
+Posicao 1 (8%) - [79831]
+Posicao 2 (15%) - [149433]
+Posicao 3 (18%) - [180013]
+Posicao 4 (2%) - [20137]
+Posicao 5 (8%) - [79688]
+Posicao 6 (5%) - [49851]
+Posicao 7 (2%) - [19726]
+Posicao 8 (13%) - [129876]
+Posicao 9 (7%) - [69678]
+

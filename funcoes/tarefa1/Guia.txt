@@ -1,0 +1,17 @@
+Exercícios de Funções
+1. Escreva um programa que leia um número inteiro e passe o número para uma função em que é calculado o valor do seu fatorial. O resultado deve ser mostrado na função main. 
+ 
+2. Escrever um programa que lê um valor que representa a medida, em metros, da aresta de um cubo, e chama uma função para calcular o volume do cubo e outra para calcular o perímetro de cada um dos seus lados.
+ 
+3. Escreva um programa no qual seja chamada uma função que receba como parâmetro um ano e retorne 1 se o ano for bissexto, e 0 caso contrário. São bissextos todos os anos não seculares divisíveis por 4, e os seculares divisíveis por 400.
+ 
+4. Escrever um programa que chama uma função que retorna a soma dos número inteiros que existem entre os números n1 e n2 (inclusive ambos) passados como parâmetros. A função deve funcionar inclusive se o valor de n2 for menor que n1. Ler n1 e n2 na função main e retornar para a main o valor resultante. Ex:
+n=somaintervalo(3, 6); /* n recebe 18 (3 + 4 + 5 + 6) */
+n=somaintervalo(5,5); /* n recebe 10 (5 + 5) */
+n=somaintervalo(-2,3); /* n recebe 3 (-2 + -1 + 0 + 1 + 2 + 3) */
+n=somaintervalo(4, 0); /* n recebe 10 (4 + 3 + 2 + 1 + 0) */
+ 
+5. Escreva um programa que leia uma string e chame uma função, passando a string como parâmetro para calcular o seu tamanho (número de letras). O valor calculado deve ser retornado para a função main, e então exibido na tela.
+ 
+6. Escreva um programa que leia um valor inteiro positivo n menor que 500 e um vetor de 500 elementos inteiros. A seguir, passe o inteiro e o vetor para uma função, que encontrará e retornará o n-ésimo maior elemento. O vetor não deve ser duplicado e nem modificado (não ordene). Por exemplo, lido o valor 3, deve ser mostrado o terceiro maior elemento do vetor. Considere que o vetor não tem valores repetidos.
+
