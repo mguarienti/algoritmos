@@ -4,9 +4,9 @@
 
 Revistas de passatempos (Coquetel e outras) apresentam um jogo chamado TORTO, no qual se deseja montar palavras a partir de um conjunto de 18 letras dispostas em uma matriz de 6 linhas e 3 colunas. As instruções do jogo, conforme o site da Coquetel, são:
 
-Devem-se formar as palavras seguindo em todas as direções, sempre ligando as letras em sequência direta, sem cruzar, sem
+"Devem-se formar as palavras seguindo em todas as direções, sempre ligando as letras em sequência direta, sem cruzar, sem
 pular e sem repetir letra (para que uma palavra tenha letra repetida, é necessário que essa letra também esteja duplicada no
-diagrama). Só valem palavras de QUATRO letras ou mais.
+diagrama). Só valem palavras de QUATRO letras ou mais."
 
 O trabalho consiste em fazer um programa que contenha duas operações básicas, uma para disponibilizar para o usuário uma matriz com as 18 letras, e outra ler e listar as palavras que o usuário informa, mas verificando se as palavras são possíveis.
 
